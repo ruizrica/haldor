@@ -22,4 +22,4 @@ Our saga will unfold in the realm of emulators, a safe harbor to test and hone o
 
 So, gather your runes and prepare your spells, for in our next chapter, we will begin the construction of our bot, step by step, ensuring that our journey is not only fruitful but also filled with the spirit of adventure and the wisdom of the ancients.
 
-[START HERE](#)
+[START HERE](https://github.com/ruizrica/haldor/blob/main/part1.md)
